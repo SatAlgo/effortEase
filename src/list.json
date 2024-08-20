@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "name": "Residance for Girls",
+          
+        "category": "Ad",
+        "image": "/crystal_girls.jpg",
+        "link": "https://web.whatsapp.com/",
+        "description": "Contact: 9284601560"
+    },
+    {
+        "id": 11,
+        "name": "Residance for Girls",
+        
+        
+        "category": "Ad",
+        "image": "/rajmata_girls.jpg",
+        "description": "Contact: 9373230021"
+    },
+    {
+        "id": 12,
+        "name": "Residance for Boys",
+        
+
+        "category": "Ad",
+        "image": "/classic_boys.jpg",
+        "description": "Contact: 9373230021"
+    },
+    {
+        "id": 13,
+        "name": "Residance for Girls",
+        
+
+        "category": "Ad",
+        "image": "/rajmata_girls.jpg",
+        "description": "Contact: 9373230021"
+    },
+    {
+        "id": 14,
+        "name": "Truss Model for AM Practical",
+        
+        "price": 59,
+        "category": "Ad",
+        "image": "/truss.jpeg",
+        "description": "All needed information about truss models will be provided."
+    },
+
+
+
+
+    {
+        "id": 2,
+        "name": "Comedy",
+        
+        "price": 20,
+        "category": "NEW"
+    },
+    {
+        "id": 3,
+        "name": "Sport Book",
+        
+        "price": 50,
+        "category": "NEW"
+    },
+    {
+        "id": 4,
+        "name": "Music Book",
+        
+        "price": 100,
+        "category": "PPT"
+        
+    },
+    {
+        "id": 5,
+        "name": "Fiction Book",
+        
+        "price": 10,
+        "category": "NEW"
+    },
+    {
+        "id": 6,
+        "name": "Adventure",
+        "description": "This is the section which is useful for students.This is the section which is useful for students.",
+        "price": 5,
+        "category": "NEW"
+        
+    },
+    {
+        "id": 7,
+        "name": "Horror Book",
+        
+        "price": 150,
+        "category": "NEW"
+    },
+    {
+        "id": 8,
+        "name": "Romance Book",
+        
+        "price": 140,
+        "category": "NEW"
+    },
+    {
+        "id": 9,
+        "name": "Fantasy Book",
+        
+        "price": 130,
+        "category": "NEW"
+    },
+    {
+        "id": 10,
+        "name": "History Book",
+        
+        "price": 500,
+        "category": "NEW"
+    },
+    
+
+
+
+    {
+        "id": 2,
+        "name": "ESSENTIALS OF DATA SCIENCE",
+        "category": "A1"
+    },
+    {
+        "id": 3,
+        "name": "Discrite Structure",
+        "category": "A1"
+    },
+    {
+        "id": 4,
+        "name": "Applied Mechanics",
+        "category": "A1"
+        
+    },
+    {
+        "id": 5,
+        "name": "SON Chem",
+        "category": "A1"
+    },
+    {
+        "id": 5,
+        "name": "SON Bio",
+        "category": "A1"
+    },
+    {
+        "id": 5,
+        "name": "Statistics & Intigral Calculus",
+        "category": "A1"
+    },
+
+
+
+
+    {
+        "id": 6,
+        "name": "Adventure",
+        "description": "This is the section which is useful for students.This is the section which is useful for students.",
+        "price": 5,
+        "category": "A2"
+        
+    },
+    {
+        "id": 7,
+        "name": "Horror Book",
+        "price": 150,
+        "category": "A2"
+    },
+    {
+        "id": 8,
+        "name": "Romance Book",
+        "price": 140,
+        "category": "A2"
+    },
+    {
+        "id": 10,
+        "name": "History Book",
+        "price": 500,
+        "category": "A2"
+    },
+    {
+        "id": 9,
+        "name": "Fantasy Book",
+        "price": 130,
+        "category": "A2"
+    },
+    {
+        "id": 11,
+        "name": "History Book",
+        "price": 500,
+        "category": "A2"
+    },
+
+
+
+
+    {
+        "id": 2,
+        "name": "ESSENTIALS OF DATA SCIENCE",
+        "price": 20,
+        "category": "N1"
+    },
+    {
+        "id": 3,
+        "name": "Discrite Structure",
+        "price": 50,
+        "category": "N1"
+    },
+    {
+        "id": 4,
+        "name": "Applied Mechanics",
+        
+        "price": 100,
+        "category": "N1"
+        
+    },
+    {
+        "id": 5,
+        "name": "SON Chem",
+        "price": 10,
+        "category": "N1"
+    },
+    {
+        "id": 5,
+        "name": "SON Bio",
+        "price": 10,
+        "category": "N1"
+    },
+    {
+        "id": 5,
+        "name": "Statistics & Intigral Calculus",
+        "price": 10,
+        "category": "N1"
+    },
+
+
+
+
+    {
+        "id": 6,
+        "name": "Adventure",
+        "description": "Image",
+        "price": 5,
+        "category": "N2"
+        
+    },
+    {
+        "id": 7,
+        "name": "Horror Book",
+        "price": 150,
+        "category": "N2"
+    },
+    {
+        "id": 8,
+        "name": "Romance Book",
+        "price": 140,
+        "category": "N2"
+    },
+    {
+        "id": 10,
+        "name": "History Book",
+        "price": 500,
+        "category": "N2"
+    },
+    {
+        "id": 9,
+        "name": "Fantasy Book",
+        "price": 130,
+        "category": "N2"
+    },
+    {
+        "id": 11,
+        "name": "History Book",
+        "price": 500,
+        "category": "N2"
+    }
+]
